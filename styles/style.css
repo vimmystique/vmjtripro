@@ -68,7 +68,7 @@ a{
 }
 
 @media screen and (max-width: 960px) {
-    #headers{
+    #header{
         font-size: 230%;
     }
         #footer{
@@ -90,7 +90,7 @@ a{
 }
 }
 @media screen and (max-width: 600px) {
-    #headers{
+    #header{
         font-size: 180%;
     }
     #footer{
