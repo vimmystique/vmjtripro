@@ -14,16 +14,11 @@ body{
     text-shadow: 2px 2px black;
 }
 #back{
-    margin: 10px;
-    padding: 10px;
+    margin: 15px;
 }
 
 #box{
     display: block;
-    margin: auto;
-    padding: 5px;
-    
-    
 }
 #box h2{
     background-color:rgba(255,255,255,0.9);
@@ -41,7 +36,7 @@ body{
 #cont{
     margin-top: 30px;
     background-color:rgba(255,255,255,0.9);
-    padding: 10px;
+    padding: 20px;
     height: auto;
     box-shadow: 2px 2px 9px darkblue;
 }
@@ -69,8 +64,7 @@ ol{
     color: white;
 }
 a{
-    text-decoration: none;
-    color: white;
+    color:white;
 }
 @media screen and (max-width: 960px) {
     #headers{
@@ -82,9 +76,7 @@ a{
     #box{
     display: block;
     height:auto;
-
     margin: auto;
-    padding: 5px;
 
 }
     #cont{
@@ -111,20 +103,17 @@ a{
     padding: 5px;
 
 }
-    img{
-        width: 40%;
-    }
     .img{
-        width: 40%;
+        width: 99%;
     }
     #cont{
         height: auto;
         display: block;
-        padding: 5px;
+        padding: 15px;
         margin-bottom: 20px;
     }
     iframe{
-    width: 80%;
-    height: 200px;
+    width: 99%;
+    height: 250px;
 }
 }
